@@ -24,16 +24,16 @@ public class Sample_TestNG_MVN_Cmd_Test {
 	
 		FileUtility fLib=new FileUtility();
 		
-		/*String BROWSER= fLib.getPropertyData("browser");
+		String BROWSER= fLib.getPropertyData("browser");
 		String URL=fLib.getPropertyData("url");
 		String Username=fLib.getPropertyData("username");
 		String Password=fLib.getPropertyData("password");
-		*/
-		String BROWSER= System.getProperty("browser");
+		
+		/*String BROWSER= System.getProperty("browser");
 		String URL=System.getProperty("url");
 		String Username=System.getProperty("username");
 		String Password=System.getProperty("password");
-		
+		*/
 		
 		Random random=new Random();
 		int randomnum=random.nextInt(1000);
