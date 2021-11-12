@@ -2,16 +2,16 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2021-11-10T18:14:28 IST" name="Default suite" finished-at="2021-11-10T18:14:28 IST" duration-ms="84">
+  <suite started-at="2021-11-12T13:38:05 IST" name="Default suite" finished-at="2021-11-12T13:38:31 IST" duration-ms="25461">
     <groups>
     </groups>
-    <test started-at="2021-11-10T18:14:28 IST" name="Default test" finished-at="2021-11-10T18:14:28 IST" duration-ms="84">
-      <class name="com.TestNG_MVN_Cmd.ReadDataFromCmdTest">
-        <test-method signature="readData()[pri:0, instance:com.TestNG_MVN_Cmd.ReadDataFromCmdTest@4ac3c60d]" started-at="2021-11-10T18:14:28 IST" name="readData" finished-at="2021-11-10T18:14:28 IST" duration-ms="15" status="PASS">
+    <test started-at="2021-11-12T13:38:05 IST" name="Default test" finished-at="2021-11-12T13:38:31 IST" duration-ms="25461">
+      <class name="com.TestNG_MVN_Cmd.Sample_TestNG_MVN_Cmd_Test">
+        <test-method signature="createOrgTest()[pri:0, instance:com.TestNG_MVN_Cmd.Sample_TestNG_MVN_Cmd_Test@72057ecf]" started-at="2021-11-12T13:38:05 IST" name="createOrgTest" finished-at="2021-11-12T13:38:30 IST" duration-ms="25367" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- readData -->
-      </class> <!-- com.TestNG_MVN_Cmd.ReadDataFromCmdTest -->
+        </test-method> <!-- createOrgTest -->
+      </class> <!-- com.TestNG_MVN_Cmd.Sample_TestNG_MVN_Cmd_Test -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>

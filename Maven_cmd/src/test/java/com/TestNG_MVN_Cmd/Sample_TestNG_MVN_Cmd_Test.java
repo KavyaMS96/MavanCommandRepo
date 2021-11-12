@@ -77,14 +77,14 @@ public class Sample_TestNG_MVN_Cmd_Test {
 		
 		if(ActualText.contains(OrgName)) {
 			System.out.println("Organization matched successfully");
-			ex.writeExcelData("OrgName", 1, 4, "PASS");
+			//ex.writeExcelData("OrgName", 1, 4, "PASS");
 			
 		}
 		
 		
 		else {
 			System.out.println("Organization not matched successfully");
-			ex.writeExcelData("OrgName", 1, 4, "FAIL");
+			//ex.writeExcelData("OrgName", 1, 4, "FAIL");
 			
 			
 		}

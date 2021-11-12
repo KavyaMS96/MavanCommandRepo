@@ -6,6 +6,7 @@ public class mavanCommandTest {
 	@Test
 	public void mvncmd() {
 		System.out.println("Hi Maven Commands");
+		System.out.println("Hi Kavya");
 	}
 	
 	@Test
